@@ -1,6 +1,9 @@
 {
   "name": "valinator",
   "version": "0.0.1",
+  "main": [
+    "dist/jquery.valinator.js"
+  ],
   "authors": [{
     "name": "Viracore",
     "email": "support@viracore.com",
